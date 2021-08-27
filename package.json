@@ -18,10 +18,14 @@
   },
   "homepage": "https://github.com/Catrodigious/wow-armory-backend#readme",
   "dependencies": {
+    "base-64": "^1.0.0",
     "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "form-data": "^4.0.0",
+    "node-fetch": "^2.6.1",
     "nodemon": "^2.0.12",
-    "qs": "^6.10.1"
+    "qs": "^6.10.1",
+    "utf8": "^3.0.0"
   }
 }
